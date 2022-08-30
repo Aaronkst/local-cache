@@ -2,17 +2,17 @@
 
 ## Installation
 
-    npm install @aaron/local-cache --save
+    npm install local-storage-cache --save
 
 ## Initialization
 
 ### Common JS
 
-    const LocalCache = require("@aaron/local-cache");
+    const LocalCache = require("local-storage-cache");
 
 ### Module JS
 
-    import LocalCache from "@aaron/local-cache";
+    import LocalCache from "local-storage-cache";
 
 ### Setup & Configuration
 

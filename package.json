@@ -1,5 +1,5 @@
 {
-  "name": "@aaron/local-cache",
+  "name": "local-storage-cache",
   "version": "0.0.1",
   "description": "Simple Local Caching system",
   "main": "dist/index.js",

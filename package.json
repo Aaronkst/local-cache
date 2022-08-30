@@ -1,5 +1,5 @@
 {
-  "name": "local-storage-cache",
+  "name": "@aaron/local-cache",
   "version": "0.0.1",
   "description": "Simple Local Caching system",
   "main": "dist/index.js",
@@ -16,7 +16,7 @@
     "Local",
     "Cache",
     "Json",
-    "Node Cache"
+    "Node"
   ],
   "author": "Aaron Chen @ Khant Si Thu",
   "license": "ISC",

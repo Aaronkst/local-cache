@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Simple Local Caching system",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "ts-mocha tests/**/*.test.ts"
@@ -13,7 +14,9 @@
   },
   "keywords": [
     "Local",
-    "Cache"
+    "Cache",
+    "Json",
+    "Node Cache"
   ],
   "author": "Aaron Chen @ Khant Si Thu",
   "license": "ISC",
